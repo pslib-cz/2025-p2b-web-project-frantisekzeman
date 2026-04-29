@@ -1,2 +1,3 @@
 Název webu: Watch shop
-popis webu: eshop prodávající hodinky, hlavní stránka s menu lištou, produkty a spodní lištou
+popis webu: eshop prodávající hodinky, hlavní stránka s nabídkou, odkaz na kontkrétní produkt
+
